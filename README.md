@@ -1,1 +1,1 @@
-"# Farm Management System" 
+ A web-based Farm Management System designed to help farmers efficiently manage their resources, crops, livestock, and finances. This system provides tools for tracking farm activities, analyzing production data, and optimizing agricultural operations.
